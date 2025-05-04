@@ -1,0 +1,16 @@
+[
+  {
+    "Titulo": "En agosto nos vemos",
+    "Autor": {
+      "Autor": "Gabriel García Márquez",
+      "Nacionalidad": "Colombiano",
+     "Obras_Destacadas": "Cien años de soledad",
+      "Fecha_Nacimiento": "1927-03-06",
+      "Genero_Literario": "Realismo mágico"
+    },
+    "Editorial": "Literatura Random House",
+    "ISBN": 9788439731234,
+    "Año_Publicacion": 2024,
+    "Numero_Paginas": 144
+  }
+]
